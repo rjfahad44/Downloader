@@ -43,7 +43,7 @@ FetchIt supports downloading media from the following platforms:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/tharunbirla/FetchIt.git
+   git clone https://github.com/rjfahad44/Downloader.git
    ```
 2. Open the project in Android Studio.
 3. Build and run the app on your device or emulator.
