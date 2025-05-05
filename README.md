@@ -2,11 +2,7 @@
 
 FetchIt is an Android application designed to download media files from various platforms. Users can enter a URL, select a file location, and start the download process.
 
-<img src="https://github.com/tharunbirla/FetchIt/blob/main/fastlane/metadata/android/en-US/images/phoneScreenshots/1.png?raw=true" alt="FetchIt Screenshot" width="300" height="600">
-
-[<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png"
-     alt="Get it on F-Droid"
-     height="80">](https://f-droid.org/packages/com.tharunbirla.fetchit/)
+<img src="https://github.com/rjfahad44/Downloader/blob/a1551d4601f132dcc5db3e43528bdfa238adffe0/images/phoneScreenshots/1.png?raw=true" alt="FetchIt Screenshot" width="300" height="600">
 
 
 ## Table of Contents
